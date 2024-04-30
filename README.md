@@ -21,3 +21,9 @@ Task Manager is a C++ program designed to manage tasks, their dependencies, prio
 4. **Dependency Setup (Optional):** Choose to establish dependencies between tasks if required.
 5. **Task Execution:** Execute tasks based on their priority and dependencies, ensuring proper completion.
 
+## Usage
+
+1. **Compile:** Compile the program using a C++ compiler.
+   ```bash
+   g++ -o dsaIdeathon.cpp
+
